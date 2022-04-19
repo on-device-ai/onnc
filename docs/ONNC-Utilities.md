@@ -54,6 +54,7 @@ The ONNC project uses CMake as its building system. There is a pre-defined build
 // run in the container cli
 $ cd /onnc/onnc-umbrella
 $ ssync && ./build.cmake.sh <build_mode>
+$ cd -
 ```
 
 `<build_mode>` supports one of the following modes:
